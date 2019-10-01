@@ -7,8 +7,8 @@
 
 Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
 
-! [none] (http://127.0.0.1:57820/idef0/index.html?id=3)
-http://127.0.0.1:57820/idef0/index.html?id=3
+! [none] https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/1.jpg
+
 
 
 ## Лабораторная 2
