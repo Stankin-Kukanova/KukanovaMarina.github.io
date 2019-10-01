@@ -7,7 +7,7 @@
 
 Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
 
-! [none] https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/1.jpg
+! [none] (https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/1.jpg)
 
 
 
