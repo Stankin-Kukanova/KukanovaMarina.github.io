@@ -8,7 +8,7 @@
 Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
 
 ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/1.png)
-
+![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
 
 
 ## Лабораторная 2
