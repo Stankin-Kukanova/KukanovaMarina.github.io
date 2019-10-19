@@ -17,7 +17,8 @@ IDEF0-диаграмма регистрации в GitHub
 
 ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BF%D1%80%D0%B5%D1%86%D0%B5%D0%B4%D0%B5%D0%BD%D1%82%D1%8B.PNG)
 ## Лабораторная 2
-
+IDEF0:![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B02.1.jpg)
+DFD: ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B02.2.jpg)
 ## Лабораторная 3
 
 ## Лабораторная 4
