@@ -20,7 +20,7 @@ IDEF0-диаграмма регистрации в GitHub
 IDEF0:![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B02.1.jpg)    
 DFD: ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B02.2.jpg)
 ## Лабораторная 3
-Диаграмма прецедентов: ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B031.PNG)   
+Диаграмма прецедентов: ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B031.PNG)  https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/31.txt 
 DFD: ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B02.2.jpg)   
 Диаграмма последовательности:![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B032.PNG)     
 ERD:![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/лаба33.PNG)
