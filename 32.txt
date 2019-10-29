@@ -1,0 +1,26 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+autonumber
+
+actor "Студент" as user
+boundary "Сайт" as app
+boundary "Регистрация" as app2
+
+user -> app: Запрос
+activate app
+app->user: Инструкция
+deactivate app
+
+user --> app2: Заполнение анкеты
+activate app2
+app <- app2: Проверка формы
+activate app
+app->app2: Результат заполнения
+deactivate app
+app2->user: Вход в систему
+deactivate app2
+@enduml
