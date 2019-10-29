@@ -17,9 +17,15 @@ IDEF0-диаграмма регистрации в GitHub
 
 ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BF%D1%80%D0%B5%D1%86%D0%B5%D0%B4%D0%B5%D0%BD%D1%82%D1%8B.PNG)
 ## Лабораторная 2
+
+Определение подсистемы и надсистемы
+
 IDEF0:![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B02.1.jpg)    
 DFD: ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B02.2.jpg)
-## Лабораторная 3
+## Лабораторная 3 
+
+Определение способов существования информации
+
 Диаграмма прецедентов: ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B031.PNG) ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/31.txt)    
 DFD: ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B02.2.jpg)   
 Диаграмма последовательности:![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B032.PNG) ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/32.txt)      
