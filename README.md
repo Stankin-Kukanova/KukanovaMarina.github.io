@@ -22,8 +22,8 @@ DFD: ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/m
 ## Лабораторная 3
 Диаграмма прецедентов: ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B031.PNG) ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/31.txt)    
 DFD: ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B02.2.jpg)   
-Диаграмма последовательности:![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B032.PNG)     
-ERD:![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/лаба33.PNG)  ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/32.txt)
+Диаграмма последовательности:![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B032.PNG) ![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/32.txt)      
+ERD:![none](https://github.com/Stankin-Kukanova/KukanovaMarina.github.io/blob/master/лаба33.PNG)  
 ## Лабораторная 4
 
 ## Лабораторная 5
